@@ -65,4 +65,10 @@ h1:hover{
 ul{
     padding: 0;
 }
-
+.card h4{
+    font-family: "popins",serif;
+    color: #172B4D;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 32px;
+}
